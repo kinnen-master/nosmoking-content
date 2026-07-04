@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T10:43:26Z",
+  "updatedAt": "2026-07-04T10:53:16Z",
   "articles": [
     {
       "id": "n8bab17442c1e",
@@ -42,6 +42,23 @@
         "煙草",
         "禁煙外来",
         "禁煙文学部"
+      ],
+      "localizations": null
+    },
+    {
+      "id": "col-20260704-195314",
+      "title": "マクドナルドと禁煙",
+      "summary": "三十二分遅れることもなく、昼休みが消えることもなく、何かの予定を忘れている感じもなかった。世界は別に輝いていなかった。鳥が鳴いていたわけでもない。朝食の味が急に…",
+      "category": "ONOKEISUKE",
+      "emoji": "🧠",
+      "imageURL": null,
+      "body": null,
+      "readingMinutes": 3,
+      "isPremium": true,
+      "publishedAt": "2026-07-04T00:00:00Z",
+      "tags": [
+        "マクドナルド",
+        "ポケット"
       ],
       "localizations": null
     },
