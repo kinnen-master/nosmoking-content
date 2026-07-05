@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>サポート | 禁煙マスター</title>
+<style>
+  :root{--green:#58CC02;--ink:#2f3a2a;--sub:#6b7a5e;--bg:#f6faf0;--card:#fff;--line:#e6efd8}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,"Hiragino Sans","Noto Sans JP",system-ui,sans-serif;color:var(--ink);background:var(--bg);line-height:1.8}
+  .wrap{max-width:760px;margin:0 auto;padding:24px 20px 80px}
+  header.top{display:flex;align-items:center;gap:10px;padding:18px 0}
+  header.top .logo{font-size:28px}
+  header.top h1{font-size:20px;margin:0;font-weight:800}
+  .switch{display:inline-flex;background:#eaf3dc;border-radius:999px;padding:4px;margin:14px 0 22px}
+  .switch button{border:0;background:transparent;padding:8px 18px;border-radius:999px;font-weight:700;color:var(--sub);cursor:pointer;font-size:14px}
+  .switch button.on{background:var(--green);color:#fff}
+  main h2{font-size:22px;margin:34px 0 6px;font-weight:800}
+  .contact{display:inline-block;background:var(--green);color:#fff;text-decoration:none;font-weight:800;padding:12px 22px;border-radius:14px;margin:10px 0 6px}
+  details{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:2px 18px;margin:10px 0}
+  details summary{font-weight:800;cursor:pointer;padding:14px 0;list-style:none}
+  details summary::-webkit-details-marker{display:none}
+  details summary::before{content:"＋ ";color:var(--green)}
+  details[open] summary::before{content:"− "}
+  details p,details li{color:#33402c;font-size:15px}
+  a{color:#2f9e00;font-weight:700}
+  footer{margin-top:50px;padding-top:20px;border-top:1px solid var(--line);color:var(--sub);font-size:13px}
+  .nav{margin-top:20px;font-size:14px}
+  .en{display:none}
+  body.lang-en .ja{display:none}
+  body.lang-en .en{display:block}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top"><span class="logo">🥒</span><h1>禁煙マスター / Quit Smoking Master</h1></header>
+  <div class="switch">
+    <button id="btn-ja" class="on" onclick="setLang('ja')">日本語</button>
+    <button id="btn-en" onclick="setLang('en')">English</button>
+  </div>
+
+  <main>
+    <!-- ===== 日本語 ===== -->
+    <div class="ja">
+      <h2>サポート</h2>
+      <p>ご質問・ご要望・不具合のご報告は、下記メールまでお気軽にご連絡ください。できる限り対応いたします。</p>
+      <a class="contact" href="mailto:kinnenmaster2026@gmail.com">メールで問い合わせる</a>
+      <p class="meta" style="color:var(--sub);font-size:13px">kinnenmaster2026@gmail.com</p>
+
+      <h2>よくある質問</h2>
+      <details><summary>購入したプレミアムを復元したい</summary>
+        <p>アプリの「設定」＞メンバーシップ＞「購入を復元」をタップしてください。以前と同じ Apple ID でサインインしている必要があります。</p></details>
+      <details><summary>サブスクリプションを解約したい</summary>
+        <p>解約は Apple の設定から行います。端末の「設定」アプリ＞一番上のご自身の名前（Apple ID）＞「サブスクリプション」＞「禁煙マスター」＞「サブスクリプションをキャンセル」の順にお進みください。解約後も、その請求期間の終わりまではプレミアム機能をご利用いただけます。</p></details>
+      <details><summary>7日間の無料トライアルについて知りたい</summary>
+        <p>初めての方にはプレミアムの7日間無料トライアルが提供される場合があります。期間内に解約すれば料金は発生しません。トライアル終了後は月額480円で自動更新されます。</p></details>
+      <details><summary>通知が届かない</summary>
+        <p>端末の「設定」＞「禁煙マスター」＞「通知」で通知が許可されているかご確認ください。アプリ内の「設定」＞通知からも種類ごとにオン/オフを切り替えられます。</p></details>
+      <details><summary>ウィジェットの追加方法</summary>
+        <p>ホーム画面の空いた場所を長押し＞左上の「＋」＞「禁煙マスター」を検索し、好みのウィジェットを追加してください。ロック画面ウィジェットにも対応しています。</p></details>
+      <details><summary>表示言語を切り替えたい</summary>
+        <p>アプリ内の「設定」＞言語から、システム既定 / 日本語 / English を選べます。表示は即時に切り替わります。</p></details>
+      <details><summary>記録をリセットしたい</summary>
+        <p>アプリの「設定」から禁煙記録のリセットが行えます。リセットすると経過時間や連続記録は初期化されますのでご注意ください。</p></details>
+      <details><summary>データはどこに保存されますか？</summary>
+        <p>入力した情報や記録は、お使いの端末内にのみ保存されます。当社のサーバーへ送信されることはありません。詳しくは<a href="./privacy.html">プライバシーポリシー</a>をご覧ください。</p></details>
+
+      <p class="nav"><a href="./index.html">← 目次へ</a> ・ <a href="./privacy.html">プライバシーポリシー</a> ・ <a href="./terms.html">利用規約</a></p>
+    </div>
+
+    <!-- ===== English ===== -->
+    <div class="en">
+      <h2>Support</h2>
+      <p>For questions, requests, or bug reports, please email us below. We'll do our best to help.</p>
+      <a class="contact" href="mailto:kinnenmaster2026@gmail.com">Contact by email</a>
+      <p class="meta" style="color:var(--sub);font-size:13px">kinnenmaster2026@gmail.com</p>
+
+      <h2>Frequently asked questions</h2>
+      <details><summary>Restore a previous Premium purchase</summary>
+        <p>In the App, go to Settings &gt; Membership &gt; "Restore Purchases". You must be signed in with the same Apple ID as before.</p></details>
+      <details><summary>Cancel your subscription</summary>
+        <p>Cancellation is done via Apple. Open the device Settings app &gt; your name (Apple ID) at the top &gt; Subscriptions &gt; Quit Smoking Master &gt; Cancel Subscription. You can keep using Premium until the end of the current billing period.</p></details>
+      <details><summary>About the 7-day free trial</summary>
+        <p>A 7-day free Premium trial may be offered to first-time users. Cancel within the trial and you won't be charged. After the trial, it auto-renews at 480 JPY per month.</p></details>
+      <details><summary>Notifications not appearing</summary>
+        <p>Check that notifications are allowed in device Settings &gt; Quit Smoking Master &gt; Notifications. You can also toggle each type in the App under Settings &gt; Notifications.</p></details>
+      <details><summary>How to add a widget</summary>
+        <p>Long-press an empty area of the Home Screen &gt; tap "+" at the top-left &gt; search "Quit Smoking Master" and add your preferred widget. Lock Screen widgets are also supported.</p></details>
+      <details><summary>Switch the display language</summary>
+        <p>In the App, go to Settings &gt; Language and choose System default / Japanese / English. The display updates instantly.</p></details>
+      <details><summary>Reset your records</summary>
+        <p>You can reset your quit record from the App's Settings. Note that resetting clears your elapsed time and streak.</p></details>
+      <details><summary>Where is my data stored?</summary>
+        <p>The information and records you enter are stored only on your device and are never sent to our servers. See our <a href="./privacy.html">Privacy Policy</a> for details.</p></details>
+
+      <p class="nav"><a href="./index.html">← Home</a> ・ <a href="./privacy.html">Privacy</a> ・ <a href="./terms.html">Terms</a></p>
+    </div>
+  </main>
+
+  <footer>© 2026 LightKing Inc. / LightKing 株式会社</footer>
+</div>
+<script>
+  function setLang(l){document.body.className=l==='en'?'lang-en':'';document.documentElement.lang=l;
+    document.getElementById('btn-ja').classList.toggle('on',l==='ja');
+    document.getElementById('btn-en').classList.toggle('on',l==='en');}
+  if((navigator.language||'').slice(0,2)==='en')setLang('en');
+</script>
+</body>
+</html>
