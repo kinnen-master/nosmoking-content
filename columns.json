@@ -1,6 +1,146 @@
 {
-  "updatedAt": "2026-07-13T15:03:52Z",
+  "updatedAt": "2026-07-14T01:39:55Z",
   "articles": [
+    {
+      "id": "guide-7-basics",
+      "title": "3分でわかる、禁煙マスターの基本",
+      "summary": "まずはこれだけ。4つのタブと、まん中の「吸いたい」ボタンの使い方。",
+      "category": "はじめに",
+      "emoji": "🧭",
+      "imageURL": null,
+      "body": "まずはこれだけ押さえればOK。難しい設定はいりません。\n\n## 画面は4つ ＋ まん中のボタン\n\n下のタブは4つあります。\n\n- **ホーム**：禁煙の経過時間や節約金額をながめる場所\n- **コラム**：禁煙のコツや読み物\n- **インサイト**：あなたの「吸いたい」パターン分析\n- **設定**：プロフィールや各種設定\n\nそして、まん中の赤い**「吸いたい」ボタン**。ここがいちばん大事です。\n\n## 吸いたくなったら、まず押す\n\nタバコが吸いたくなったら、我慢する前に「吸いたい」ボタン。深呼吸ガイドが出て、気持ちが落ち着くのを手伝います。乗り越えられたら記録され、あとで「インサイト」に効いてきます。\n\nもし吸ってしまっても大丈夫。ボタンの上に出る小さな**「吸っちゃった」**でリセットすれば、今この瞬間からまた始められます。\n\nカッパが毎日応援しています。まずはホームで、経過時間をながめるところから始めましょう。",
+      "readingMinutes": 1,
+      "isPremium": false,
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "tags": null,
+      "localizations": {
+        "en": {
+          "title": "Quit Smoking Master basics, in 3 minutes",
+          "summary": "Just the essentials — the four tabs, and how to use the \"Urge\" button in the middle.",
+          "body": "Get just these down and you're good to go. No complicated setup needed.\n\n## Four screens, plus the button in the middle\n\nThere are four tabs along the bottom.\n\n- **Home**: where you watch your smoke-free time and money saved\n- **Articles**: tips and reading on quitting\n- **Insights**: analysis of your own \"urge\" patterns\n- **Settings**: your profile and various options\n\nAnd the red **\"Urge\" button** in the middle. This one matters most.\n\n## When you want to smoke, press it first\n\nWhen you crave a cigarette, hit the \"Urge\" button before you tough it out. A breathing guide appears and helps you settle down. If you get through it, it's logged and later feeds into \"Insights.\"\n\nAnd if you slip and smoke, that's okay. The small **\"I smoked\"** above the button resets things, and you can start again from this very moment.\n\nThe kappa cheers you on every day. Start simply — just watch your time tick up on Home."
+        }
+      }
+    },
+    {
+      "id": "guide-6-home",
+      "title": "ホーム画面の見かた",
+      "summary": "経過時間・節約金額・体の回復。ホームは禁煙の「今」がひと目でわかる。",
+      "category": "はじめに",
+      "emoji": "🏠",
+      "imageURL": null,
+      "body": "ホームは、禁煙の「今」がひと目でわかる場所です。\n\n## まん中の大きなカード\n\n禁煙してから何日目か、何時間何分吸っていないかをリアルタイムで表示します。ながめるだけで、ちょっと誇らしくなります。\n\n## 数字で成果を実感\n\n- **節約金額**：吸わずに浮いたお金\n- **吸わずに済んだ本数**：回避できたタバコの本数\n\n時間がたつほど、どちらもぐんぐん増えていきます。\n\n## その下にあるもの\n\n- **14日間の禁煙レッスン**への入口\n- **体の回復**：時間とともに体が回復していく様子\n- **減煙から始める**：いきなりは不安な人向け（プレミアム）\n\n1日・1週間…と節目に到達すると、お祝いの演出が飛び出します。お楽しみに。",
+      "readingMinutes": 1,
+      "isPremium": false,
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "tags": null,
+      "localizations": {
+        "en": {
+          "title": "How to read the Home screen",
+          "summary": "Elapsed time, money saved, your body recovering — Home shows your quit at a glance.",
+          "body": "Home is where your quit \"right now\" is visible at a glance.\n\n## The big card in the middle\n\nIt shows, in real time, what day of your quit you're on and how many hours and minutes you've gone without smoking. Just looking at it feels a little proud.\n\n## Feel the results in numbers\n\n- **Money saved**: the cash you didn't burn\n- **Cigarettes not smoked**: the number you avoided\n\nThe longer it goes, the faster both climb.\n\n## What's below that\n\n- An entry to the **14-day quit lessons**\n- **Body recovery**: how your body heals as time passes\n- **Start with reduction**: for people who find quitting cold too scary (Premium)\n\nHit a milestone — one day, one week, and so on — and a celebration pops out. Look forward to it."
+        }
+      }
+    },
+    {
+      "id": "guide-5-program",
+      "title": "14日間の禁煙レッスン",
+      "summary": "依存の心理を1日5分×14日で学ぶ。1日1レッスン、Day1〜3は無料。",
+      "category": "はじめに",
+      "emoji": "🎓",
+      "imageURL": null,
+      "body": "依存の心理を、1日5分ずつ、14日間で学べるプログラムです。\n\n## 1日1レッスン\n\nあせらず、1日ひとつ。前のレッスンを終えて翌日になると、次のレッスンが開きます。「なぜやめられないのか」から「ずっと吸わない人生へ」まで、順番に理解が深まっていきます。\n\n## 無料とプレミアム\n\n- **Day 1〜3**：無料\n- **Day 4以降**：プレミアム（または広告を1本見ると、そのレッスンを解放できます）\n\nホーム画面の入口、または通知からいつでも始められます。今日のぶんが終わったら、また明日。積み重ねが力になります。",
+      "readingMinutes": 1,
+      "isPremium": false,
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "tags": null,
+      "localizations": {
+        "en": {
+          "title": "The 14-day quit lessons",
+          "summary": "Learn the psychology of addiction in 5 minutes a day over 14 days. One lesson a day; Days 1–3 are free.",
+          "body": "A program that teaches you the psychology of addiction, five minutes a day, over 14 days.\n\n## One lesson a day\n\nNo rush — just one a day. Finish a lesson, and the next one opens the following day. From \"Why can't I quit?\" to \"Toward a life that never smokes again,\" your understanding deepens in order.\n\n## Free and Premium\n\n- **Days 1–3**: free\n- **Day 4 onward**: Premium (or watch one ad to unlock that lesson)\n\nStart anytime from the entry on the Home screen or from a notification. Once today's lesson is done, come back tomorrow. The stacking-up becomes your strength."
+        }
+      }
+    },
+    {
+      "id": "guide-4-reduction",
+      "title": "いきなり無理なら「減煙」から",
+      "summary": "いきなりゼロが不安な人へ。少しずつ減らして完全禁煙（卒業）を目指す。",
+      "category": "はじめに",
+      "emoji": "📉",
+      "imageURL": null,
+      "body": "「今日からゼロ」が不安な人へ。少しずつ本数を減らして、完全禁煙（卒業）を目指すモードです。（プレミアム機能）\n\n## 毎日、上限が少しずつ下がる\n\n- 今日は何本まで／あと何本吸えるかを表示\n- **次の一本**まではタイマー。待つほど衝動は弱くなります\n- 吸うときは「1本 吸った」、我慢できたら「我慢する」\n\n## 積み上げが見える\n\n連続で目標を達成した日数、減らせた本数、カレンダーでの振り返り。ラスト1週間には、卒業に向けたチェックリストも出ます。\n\n卒業日になったら、そのまま完全禁煙へ切り替え。ホーム、または設定から始められます。",
+      "readingMinutes": 1,
+      "isPremium": false,
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "tags": null,
+      "localizations": {
+        "en": {
+          "title": "If cold turkey feels impossible, start with \"reduction\"",
+          "summary": "If going straight to zero feels scary, cut down gradually and aim for full quitting (graduation).",
+          "body": "For anyone who finds \"zero starting today\" scary. This mode lowers your count little by little, aiming for full quitting — your \"graduation.\" (Premium feature)\n\n## Your daily limit drops a little each day\n\n- Shows how many you can have today, and how many are left\n- A timer counts down to your **next cigarette**. The longer you wait, the weaker the urge gets\n- When you smoke, tap \"Smoked one\"; when you hold off, tap \"Hold off\"\n\n## You can see it add up\n\nDays you hit your goal in a row, the number you've cut, and a calendar to look back on. In the final week, a checklist for graduation appears too.\n\nWhen graduation day comes, switch straight into full quitting. Start from Home or from Settings."
+        }
+      }
+    },
+    {
+      "id": "guide-3-column",
+      "title": "コラムの歩き方",
+      "summary": "今日の1本、あなた向けのおすすめ、検索・フィルタ。コラムの歩き方。",
+      "category": "はじめに",
+      "emoji": "📚",
+      "imageURL": null,
+      "body": "禁煙のコツから読み物まで、コラムには味方がいっぱいです。\n\n## 雑誌みたいに読める\n\n- **今日の1本**：日替わりのおすすめ\n- **いまのあなたに**：禁煙の経過に合わせたおすすめ\n- **続きから読む／あとで読む**：読みかけや保存した記事\n- カテゴリ別の棚から、気になるテーマへ\n\n## 探す・絞る\n\n上部の検索、並び替え（新着順／読む時間が短い順）、未読のみ・保存フィルタで、読みたい記事にすぐ届きます。\n\n無料記事とプレミアム記事があります（プレミアム記事は、広告を1本見ると読めることも）。日本語・英語に対応しています。",
+      "readingMinutes": 1,
+      "isPremium": false,
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "tags": null,
+      "localizations": {
+        "en": {
+          "title": "Getting around Articles",
+          "summary": "Today's Pick, picks for you, search and filters — how to get around Articles.",
+          "body": "From quitting tips to good reads, Articles is full of allies.\n\n## Read it like a magazine\n\n- **Today's Pick**: a daily recommendation\n- **For You Right Now**: picks matched to where you are in your quit\n- **Continue reading / Read later**: articles you started or saved\n- Browse by category shelf to the themes you care about\n\n## Search and narrow down\n\nThe search bar up top, sorting (newest / shortest read), and the unread-only and saved filters get you to what you want to read fast.\n\nThere are free and Premium articles (Premium ones can sometimes be read after watching one ad). Available in Japanese and English."
+        }
+      }
+    },
+    {
+      "id": "guide-2-insights",
+      "title": "インサイトで自分のクセを知る",
+      "summary": "「吸いたい」記録がたまると衝動パターンが見える。まずは記録から。",
+      "category": "はじめに",
+      "emoji": "📊",
+      "imageURL": null,
+      "body": "「吸いたい」ボタンの記録がたまると、あなたの衝動パターンが見えてきます。\n\n## まずは記録から\n\n最初は空っぽです。吸いたくなるたびに「吸いたい」ボタンを押すほど、データが育っていきます。\n\n## 見えること\n\n- **今週のまとめ**と**乗り越え率**（無料）\n- プレミアムでは、**時間帯別・場所別・タイプ別**の詳しいグラフと、危険な時間を先読みして知らせる通知\n\n「なんとなく吸っていた」が「この時間・この場所が危ない」に変わると、対策が打てるようになります。",
+      "readingMinutes": 1,
+      "isPremium": false,
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "tags": null,
+      "localizations": {
+        "en": {
+          "title": "Learn your own habits with Insights",
+          "summary": "As your \"urge\" logs build up, your patterns emerge. Start by logging.",
+          "body": "As your \"Urge\" button logs build up, your craving patterns start to show.\n\n## Start by logging\n\nAt first it's empty. The more you press the \"Urge\" button whenever a craving hits, the more your data grows.\n\n## What you'll see\n\n- **This week's summary** and your **overcome rate** (free)\n- With Premium: detailed graphs **by hour, place, and type**, plus notifications that predict your risky times ahead\n\nWhen \"I was just smoking without thinking\" turns into \"this time and this place are dangerous,\" you can actually do something about it."
+        }
+      }
+    },
+    {
+      "id": "guide-1-settings",
+      "title": "設定でできること",
+      "summary": "プロフィール・外観・言語・同期・やり直し。設定でできることまとめ。",
+      "category": "はじめに",
+      "emoji": "⚙️",
+      "imageURL": null,
+      "body": "自分に合わせて、いろいろ調整できます。ざっと紹介します。\n\n## 基本の調整\n\n- **喫煙プロフィール**：吸う種類・1日の本数・1箱の値段（節約額の計算に使います）\n- **外観**：ライト／ダーク／システム\n- **効果音・触覚**、**表示言語**（日本語／English）\n- **iCloud同期**：機種変更のときもデータを引き継げます\n\n## 記録とサポート\n\n- **再喫煙した・やり直す**：禁煙タイマーを今からリセット\n- **通知の設定**、**ご意見・ご要望**、**App Store でレビュー**\n- メンバーシップ（プレミアム登録・購入の復元・解約方法）\n\n困ったら、まず設定をのぞいてみてください。だいたいのことはここで解決します。",
+      "readingMinutes": 1,
+      "isPremium": false,
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "tags": null,
+      "localizations": {
+        "en": {
+          "title": "What you can do in Settings",
+          "summary": "Profile, appearance, language, sync, starting over — what you can do in Settings.",
+          "body": "You can tune plenty of things to fit you. Here's a quick tour.\n\n## The basics\n\n- **Smoking profile**: types you smoke, cigarettes per day, price per pack (used to calculate your savings)\n- **Appearance**: light / dark / system\n- **Sound & haptics**, and **display language** (Japanese / English)\n- **iCloud sync**: carry your data over even when you change phones\n\n## Records and support\n\n- **I smoked / start over**: reset your quit timer from now\n- **Notification settings**, **feedback**, and **leave a review on the App Store**\n- Membership (subscribe to Premium, restore purchases, how to cancel)\n\nWhen in doubt, peek into Settings first. Most things get sorted out here."
+        }
+      }
+    },
     {
       "id": "n6c32afb50612",
       "title": "うつっぽい時期に禁煙してもいいのか",
